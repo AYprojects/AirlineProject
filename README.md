@@ -1,10 +1,10 @@
 # AirlineProject
 
-ABOUT THE PROJECT
+## ABOUT THE PROJECT
 
 This is a simple airline reservation system which has standard operations of booking the to and from destination flights, flight dates and type of flights. 
 
-SOFTWARE REQUIREMENTS:
+## SOFTWARE REQUIREMENTS:
 
 Operating system : Windows XP /2003 or Linux or Solaris
 
@@ -19,7 +19,7 @@ IDE/Workbench : Eclipse
 User Interface : Java Swings
 
 
-RESOURCES:
+## RESOURCES:
 
 Java 8.0: https://www.oracle.com/java/index.html
 
@@ -27,7 +27,7 @@ MySQL: https://www.mysql.com/
 
 Eclipse: https://www.eclipse.org/downloads/
 
-INSTRUCTIONS:
+## INSTRUCTIONS:
 
 1. Go to the terminal and change the directory to the project folder.
 
@@ -38,17 +38,12 @@ INSTRUCTIONS:
 4. The username and the password on the login page are ‘demo’.
 
 
-ABOUT THE AUTHOR
+## ABOUT THE AUTHOR
 
 Hi, I am Aakanksh Yalamarthy, I am an Entrepreneur | Software Developer | Designer. I have successfully launched many start ups in varied streams of industries such as software, F&B and such, apart from having a solid entrepreneurial background, I have good coding experience. I have built and scaled multiple products, everything from the front end to the back end. My core expertise lies in product development and software development. To learn more about me, please visit www.aakanksh.com
 
-LICENSE
+## LICENSE
 
 MIT © AAKANKSH YALAMARTHY
 
 Enjoy!
-
-
-
-
-
